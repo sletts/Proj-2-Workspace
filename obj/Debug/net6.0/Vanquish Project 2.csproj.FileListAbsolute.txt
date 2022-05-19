@@ -1,0 +1,27 @@
+C:\Users\Owner\Desktop\Revature\Sean-Letts\Project2_Vanquish\Vanquish Project 2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Owner\Desktop\Revature\Sean-Letts\Project2_Vanquish\Vanquish Project 2\bin\Debug\net6.0\appsettings.json
+C:\Users\Owner\Desktop\Revature\Sean-Letts\Project2_Vanquish\Vanquish Project 2\bin\Debug\net6.0\Vanquish Project 2.exe
+C:\Users\Owner\Desktop\Revature\Sean-Letts\Project2_Vanquish\Vanquish Project 2\bin\Debug\net6.0\Vanquish Project 2.deps.json
+C:\Users\Owner\Desktop\Revature\Sean-Letts\Project2_Vanquish\Vanquish Project 2\bin\Debug\net6.0\Vanquish Project 2.runtimeconfig.json
+C:\Users\Owner\Desktop\Revature\Sean-Letts\Project2_Vanquish\Vanquish Project 2\bin\Debug\net6.0\Vanquish Project 2.dll
+C:\Users\Owner\Desktop\Revature\Sean-Letts\Project2_Vanquish\Vanquish Project 2\bin\Debug\net6.0\Vanquish Project 2.pdb
+C:\Users\Owner\Desktop\Revature\Sean-Letts\Project2_Vanquish\Vanquish Project 2\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Owner\Desktop\Revature\Sean-Letts\Project2_Vanquish\Vanquish Project 2\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Owner\Desktop\Revature\Sean-Letts\Project2_Vanquish\Vanquish Project 2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Owner\Desktop\Revature\Sean-Letts\Project2_Vanquish\Vanquish Project 2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Owner\Desktop\Revature\Sean-Letts\Project2_Vanquish\Vanquish Project 2\obj\Debug\net6.0\Vanquish Project 2.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\Revature\Sean-Letts\Project2_Vanquish\Vanquish Project 2\obj\Debug\net6.0\Vanquish Project 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\Revature\Sean-Letts\Project2_Vanquish\Vanquish Project 2\obj\Debug\net6.0\Vanquish Project 2.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\Revature\Sean-Letts\Project2_Vanquish\Vanquish Project 2\obj\Debug\net6.0\Vanquish Project 2.AssemblyInfo.cs
+C:\Users\Owner\Desktop\Revature\Sean-Letts\Project2_Vanquish\Vanquish Project 2\obj\Debug\net6.0\Vanquish Project 2.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Revature\Sean-Letts\Project2_Vanquish\Vanquish Project 2\obj\Debug\net6.0\Vanquish Project 2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Owner\Desktop\Revature\Sean-Letts\Project2_Vanquish\Vanquish Project 2\obj\Debug\net6.0\Vanquish Project 2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Owner\Desktop\Revature\Sean-Letts\Project2_Vanquish\Vanquish Project 2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Owner\Desktop\Revature\Sean-Letts\Project2_Vanquish\Vanquish Project 2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Owner\Desktop\Revature\Sean-Letts\Project2_Vanquish\Vanquish Project 2\obj\Debug\net6.0\scopedcss\bundle\Vanquish Project 2.styles.css
+C:\Users\Owner\Desktop\Revature\Sean-Letts\Project2_Vanquish\Vanquish Project 2\obj\Debug\net6.0\Vanquish Project 2.csproj.CopyComplete
+C:\Users\Owner\Desktop\Revature\Sean-Letts\Project2_Vanquish\Vanquish Project 2\obj\Debug\net6.0\Vanquish Project 2.dll
+C:\Users\Owner\Desktop\Revature\Sean-Letts\Project2_Vanquish\Vanquish Project 2\obj\Debug\net6.0\refint\Vanquish Project 2.dll
+C:\Users\Owner\Desktop\Revature\Sean-Letts\Project2_Vanquish\Vanquish Project 2\obj\Debug\net6.0\Vanquish Project 2.pdb
+C:\Users\Owner\Desktop\Revature\Sean-Letts\Project2_Vanquish\Vanquish Project 2\obj\Debug\net6.0\Vanquish Project 2.genruntimeconfig.cache
+C:\Users\Owner\Desktop\Revature\Sean-Letts\Project2_Vanquish\Vanquish Project 2\obj\Debug\net6.0\ref\Vanquish Project 2.dll
